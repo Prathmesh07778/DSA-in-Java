@@ -27,6 +27,6 @@ public class DigonalSum{
                 {7, 8, 9}
         };
 
-        DiagonalSum(matrix);
+        DigonalSum(matrix);
     }
 }
