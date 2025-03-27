@@ -106,36 +106,35 @@ To help you plan for next week, I'll provide a more detailed version of the temp
 7. Intersection of Two Linked Lists (LeetCode #160)
 8. Add Two Numbers (LeetCode #2)
 
-Week 1: Java Basics & Arrays
+
+Week 2: Strings & Basic Data Structures
 Focus Areas:
 
-Java fundamentals refresh
-Array manipulation
-Time and space complexity analysis
-Basic searching algorithms
+String manipulation in Java
+Pattern matching algorithms
+Linked list implementation and operations
+Linked list patterns
 
 Daily Breakdown:
 
-Day 1: Java review, environment setup, basic array operations
-Day 2: Array manipulation techniques, time/space complexity
-Day 3: Prefix sums and sliding window techniques
-Day 4: Two-pointer technique and array patterns
-Day 5: 2D arrays and matrix operations
-Day 6-7: Weekly review and additional practice
+Day 8: String operations, StringBuilder/Buffer
+Day 9: Pattern matching basics
+Day 10: Advanced string manipulation
+Day 11: Singly linked list implementation
+Day 12: Doubly/circular linked lists
+Day 13-14: Weekly review and additional practice
 
 Key Problems:
 
-Binary search implementation
-Array rotation
-Maximum subarray sum (Kadane's algorithm)
-Dutch National Flag problem
-Spiral matrix traversal
+Anagram detection
+Longest palindromic substring
+Linked list reversal
+Cycle detection in linked list
+Merge sorted linked lists
 
 End of Week Tasks:
 
-Review all implemented code solutions
-Analyze time/space complexity of each solution
-Complete self-assessment quiz on arrays
-Plan Week 2 using the weekly planning template
-
-This detailed plan should give you clear direction for next week's study, with specific topics, resources, and problem sets to work through. The daily schedule balances theory, implementation, and problem-solving, ensuring you build both conceptual understanding and practical coding skills.
+Review string vs. array manipulation differences
+Compare singly vs. doubly linked list implementations
+Document common linked list patterns
+Plan Week 3 using the weekly planning template
